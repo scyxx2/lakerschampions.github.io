@@ -1,2 +1,3 @@
     name: Zhengtian Chu, a Young Man
     markdown: kramdown
+    permalink: /blogs/:year/:month/:day/:title
