@@ -22,9 +22,9 @@ a {
     border-style: none;
     color: white;
 }
-#lbhome {
+/* #lbhome {
     background: url("/img/home.png") no-repeat;
-}
+} */
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
