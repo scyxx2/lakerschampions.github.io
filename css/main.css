@@ -16,8 +16,8 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
-    text-decoration: underline;
+.lb {
+    background: url("/img/home.png") no-repeat;
 }
 h1 {
     font-size: 3em;
