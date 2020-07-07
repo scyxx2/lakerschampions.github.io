@@ -5,10 +5,13 @@ body {
 .blurb{
     background: url("/img/home.png") no-repeat;
     color:white;
-    height:200px;
+    height:300px;
     font-size:50px;
     text-align: center;
-    line-height: 200px;
+    line-height:300px;
+    overflow: hidden; 
+    
+    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
