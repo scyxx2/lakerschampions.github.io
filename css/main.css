@@ -7,11 +7,7 @@ body {
     color:white;
     height:200px;
     font-size:50px;
-    text-align: center;
-    vertical-align: middle;
-    display: table-cell;
-    
-    
+    text-align: center;  
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
