@@ -5,6 +5,7 @@ body {
 .blurb{
     background: url("/img/home.png") no-repeat;
     color:white;
+    height:100px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
