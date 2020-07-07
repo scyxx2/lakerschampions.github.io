@@ -6,6 +6,7 @@ body {
     background: url("/img/home.png") no-repeat;
     color:white;
     height:20%;
+    font-size:30px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -20,6 +21,9 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+}
+a:hover{
+    text-decoration:underline;
 }
 h1 {
     font-size: 3em;
