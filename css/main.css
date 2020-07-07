@@ -22,11 +22,18 @@ a {
     border-style: none;
     color: white;
 }
-
-/* #lbhome {
-    background: url("/img/home.png") no-repeat;
-} */
-
+#lbhome {
+    background-color: green;
+}
+#lbabout{
+    
+}
+#lbcv{
+    
+}
+#lbblog{
+    
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
