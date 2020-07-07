@@ -5,7 +5,7 @@ body {
 .blurb{
     background: url("/img/home.png") no-repeat;
     color:white;
-    height:20%;
+    height:200px;
     font-size:30px;
 }
 nav ul, footer ul {
