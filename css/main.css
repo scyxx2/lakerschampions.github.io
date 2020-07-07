@@ -4,6 +4,7 @@ body {
 }
 .blurb{
     background: url("/img/home.png") no-repeat;
+    color:white;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -19,28 +20,6 @@ a {
     text-decoration: none;
     color: #999;
 }
-.lb{
-    width:250px;
-    height:180px;
-    border-style: none;
-    color: white;
-    font-size: 30px;
-}
-.lb:hover{
-    color:black;
-    background-color:white;
-    transition: background-color 1000ms;
-}
-#lbhome {
-    background-image: linear-gradient(to bottom right,#FF00FF, #FF66FF);
-#lbabout{
-    background-image: linear-gradient(to bottom right,#33CC00, #33CC66);
-}
-#lbcv{
-    background-image: linear-gradient(to bottom right,#0033FF, #00CCFF);
-}
-#lbblog{
-    background-image: linear-gradient(to bottom right,#FFFF00, #FF9900);
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
