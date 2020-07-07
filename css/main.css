@@ -5,11 +5,11 @@ body {
 .blurb{
     background: url("/img/home.png") no-repeat;
     color:white;
-    height:300px;
+    height:200px;
     font-size:50px;
     text-align: center;
-    line-height:300px;
-    overflow: hidden; 
+    vertical-align: middle;
+    display: table-cell;
     
     
 }
