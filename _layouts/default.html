@@ -8,10 +8,6 @@
          {% endif %}
     </head>
     <body>
-        <div class="container">
-             {{ content }}
-   
-        </div><!-- /.container -->
         <nav>
             <ul>
                 <li><input type = "button" class = 'lb' id = 'lbhome' value = "home" onclick = "window.location.href='/'"></li>
@@ -20,6 +16,11 @@
                 <li><input type = "button" class = 'lb' id = 'lbblog' value = "blog" onclick = "window.location.href='/blogs'"></li>
             </ul>
         </nav>
+        <div class="container">
+             {{ content }}
+   
+        </div><!-- /.container -->
+  
         <footer>
             <ul>
                 <li><a href="mailto:chuzhengtian99@gmail.com">email</a></li>
