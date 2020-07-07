@@ -17,14 +17,16 @@ a {
     color: #999;
 }
 .lb{
-    width:100px;
-    height:70px;
+    width:200px;
+    height:150px;
     border-style: none;
     color: white;
 }
+
 /* #lbhome {
     background: url("/img/home.png") no-repeat;
 } */
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
