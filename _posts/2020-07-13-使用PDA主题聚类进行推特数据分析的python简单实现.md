@@ -4,7 +4,6 @@ title: "使用PDA主题聚类进行推特数据分析的python简单实现"
 date: 2020-07-13
 ---
 
-# 获取推特数据并用PDA主题聚类进行数据分析的python简单实现
 ## 相关知识
 - python tweepy库（用来获取推特数据）
 - python nltk库（在规范数据时会用到）
