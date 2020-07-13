@@ -8,7 +8,10 @@ body {
     color:white;
     height:100%;
     font-size:50px;
-    text-align: center;  
+    text-align: center; 
+    display: flex;
+	justify-content:center;
+	align-items:Center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
