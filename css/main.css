@@ -4,7 +4,7 @@ body {
 }
 .blurb{
     background: url("/img/home.png") no-repeat;
-    background-size:200px 150px;
+    background-size:100%;
     color:white;
     height:200px;
     font-size:50px;
