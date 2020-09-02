@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用PDA主题聚类进行推特数据分析的python简单实现"
+title: "Twiiter analysis based on Latent Dirichlet Allocation Model"
 date: 2020-07-13
 ---
 
