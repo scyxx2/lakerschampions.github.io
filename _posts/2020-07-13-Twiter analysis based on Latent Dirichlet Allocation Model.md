@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twiiter analysis based on Latent Dirichlet Allocation Model"
+title: "Twiter analysis based on Latent Dirichlet Allocation Model"
 date: 2020-07-13
 ---
 
