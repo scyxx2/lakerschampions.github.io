@@ -17,7 +17,7 @@ body {
     background: url("/img/about.jpeg") no-repeat;
     background-size:100%;		
     color:white;
-    height:400px;
+    height:200px;
     font-size:30px;
     text-align: center; 
     display: flex;
