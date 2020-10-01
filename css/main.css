@@ -3,11 +3,11 @@ body {
     width: 70%;
 }
 .blurb{
-    background: url("/img/home.png") no-repeat;
+    background: url("/img/about.png") no-repeat;
     background-size:100%;
     color:white;
     height:200px;
-    font-size:50px;
+    font-size:30px;
     text-align: center; 
     display: flex;
     justify-content:center;
