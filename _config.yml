@@ -1,4 +1,27 @@
-    name: Zhengtian Chu, a Young Man
-    google_analytics: UA-171688343-1
-    markdown: kramdown
-    permalink: /blogs/:year/:month/:day/:title
+permalink: /:year:month:day/:title
+url: https://lakerschampions.github.io/ #Your url here
+baseurl: /project
+
+# variables
+name: Zhengtian Chu, a Young Man
+description: The own page of Andrew
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
+
+google_analytics: UA-171688343-1
