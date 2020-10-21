@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://lakerschampions.github.io/ #Your url here
-baseurl: /project
+baseurl: /lakerschampions.github.io
 
 # variables
 name: Zhengtian Chu, a Young Man
