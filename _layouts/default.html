@@ -33,11 +33,18 @@
 			<ul id="tag-list">
 				<li><a href="/" ><img src="/assets/img/disk.png" />(C:)</a>
 			<ul>
-				{% assign tags = site.tags | sort %}
+<!-- 				{% assign tags = site.tags | sort %}
 				{% for tag in tags %}
-<!-- 				<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag[0] | replace:'-', ' ' }}</a></li> -->
-				<li><a href="/tag/tag1"><img src="/assets/img/folder.ico" /></a></li>
-				{% endfor %}
+				<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag[0] | replace:'-', ' ' }}</a></li>
+				{% endfor %} -->
+					
+				<li><a href="/tag/tag1/" title="tag1"><img src="/windows-95/assets/img/folder.ico" />tag1</a></li>
+				
+				<li><a href="/tag/tag2/" title="tag2"><img src="/windows-95/assets/img/folder.ico" />tag2</a></li>
+				
+				<li><a href="/tag/tag3/" title="tag3"><img src="/windows-95/assets/img/folder.ico" />tag3</a></li>
+				
+				<li><a href="/tag/tag4/" title="tag4"><img src="/windows-95/assets/img/folder.ico" />tag4</a></li>
 			</ul>
 				</li>
 			</ul>
