@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Andrew, Launches Site"
 date: 2020-07-06
 ---
