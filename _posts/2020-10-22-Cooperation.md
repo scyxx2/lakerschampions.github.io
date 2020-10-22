@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Corporation"
+title: "Cooperation"
 date: 2020-10-22
 tags: MessageArea
 ---
