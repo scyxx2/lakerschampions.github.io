@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: CS Blogs
+tag: CSBlogs
 permalink: /tag/CS Blogs/
 ---
