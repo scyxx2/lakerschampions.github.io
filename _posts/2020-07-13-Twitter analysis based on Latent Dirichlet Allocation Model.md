@@ -2,7 +2,7 @@
 layout: default
 title: "Twitter analysis based on Latent Dirichlet Allocation Model"
 date: 2020-07-13
-tags: CS Blogs
+tags: tag2
 ---
 
 ## 相关知识
